@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -iv 0123456789* /etc/passwd
+grep -iv 0123456789* /etc/ssh/sshd_config
